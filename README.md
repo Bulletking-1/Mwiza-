@@ -3,16 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>To Mwiya Beyonce Mwiza - My Heartfelt Apology</title>
+    <title>For Mwiza Beyonce Mwiya</title>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
         body {
             background: linear-gradient(135deg, #ffafbd 0%, #ffc3a0 100%);
             color: #8a2b5e;
@@ -23,6 +17,7 @@
             justify-content: center;
             padding: 20px;
             font-family: 'Poppins', sans-serif;
+            overflow-x: hidden;
         }
         
         .container {
@@ -35,6 +30,7 @@
             position: relative;
             overflow: hidden;
             border: 8px solid #ff69b4;
+            margin: 20px 0;
         }
         
         .container::before {
@@ -92,6 +88,14 @@
             color: white;
             font-weight: 700;
             letter-spacing: 1px;
+        }
+        
+        .my-name {
+            text-align: center;
+            font-size: 1.5rem;
+            color: #db7093;
+            margin-top: 10px;
+            font-weight: 600;
         }
         
         .heart-banner {
@@ -180,6 +184,67 @@
             font-size: 1.5rem;
             font-weight: 600;
             text-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        
+        .music-section {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 25px;
+            margin: 30px 0;
+            text-align: center;
+            border: 3px dashed #ff69b4;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .music-title {
+            font-family: 'Dancing Script', cursive;
+            font-size: 2.5rem;
+            color: #ff1493;
+            margin-bottom: 20px;
+        }
+        
+        .song-info {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            color: #8a2b5e;
+        }
+        
+        .player-container {
+            background: linear-gradient(135deg, #ffb6c1, #ff69b4);
+            border-radius: 15px;
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 500px;
+            box-shadow: 0 10px 20px rgba(255, 105, 180, 0.2);
+        }
+        
+        .player-controls {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .player-btn {
+            background: white;
+            border: none;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            font-size: 1.5rem;
+            color: #ff1493;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+        }
+        
+        .player-btn:hover {
+            transform: scale(1.1);
+            box-shadow: 0 5px 15px rgba(255, 20, 147, 0.3);
         }
         
         .love-game {
@@ -334,239 +399,326 @@
     </style>
 </head>
 <body>
-    <!-- Floating flowers -->
     <div class="pink-flower flower1">🌸</div>
-    <div class="pink-flower flower2">💮</div>
-    <div class="pink-flower flower3">🌺</div>
+    <div class="pink-flower flower2">🌺</div>
+    <div class="pink-flower flower3">💮</div>
     <div class="pink-flower flower4">🏵️</div>
     
     <div class="container">
         <div class="header">
-            <h1 class="title">My Heart's Apology</h1>
+            <h1 class="title">My Heartfelt Apology</h1>
             
             <div class="heart-banner">
+                <div class="heart">❤️</div>
                 <div class="heart">💖</div>
-                <div class="heart">💝</div>
                 <div class="heart">💗</div>
-                <div class="heart">💓</div>
+                <div class="heart">💕</div>
                 <div class="heart">💞</div>
             </div>
             
             <div class="name-container">
-                <h2 class="name-highlight">Mwiya Beyonce Mwiza</h2>
+                <h2 class="name-highlight">For Mwiza Beyonce Mwiya</h2>
             </div>
             
-            <p>This message comes straight from my heart to yours</p>
+            <div class="my-name">From Lifasi Malumo Lucky</div>
         </div>
         
         <div class="apology-card">
             <div class="apology-text">
-                <p>My dearest <strong>Mwiya Beyonce Mwiza</strong>,</p>
-                
-                <p>I'm writing this with a heart full of love and regret. I want to sincerely apologize for my words that hurt you. Every time I think about it, my heart aches knowing I caused you pain.</p>
-                
-                <p>You are an incredible person with the most beautiful heart I've ever known. Your kindness, your smile, your spirit - these are things I cherish deeply, and you deserve nothing but love and respect.</p>
-                
-                <p>My words were thoughtless and came from a place of frustration, but they never reflected my true feelings for you. You mean the world to me.</p>
+                <p>My dearest Mwiza Beyonce Mwiya,</p>
+                <p>I am writing this with a heart full of regret and love. I know I've made mistakes, and I'm truly sorry for the pain I've caused you. You mean the world to me, and seeing you upset because of me is the hardest thing to bear.</p>
+                <p>Every moment with you is special, and I realize now how much I've taken that for granted. Your smile lights up my world, your laughter is my favorite melody, and your presence makes everything better. I promise to be more thoughtful, more attentive, and to cherish you the way you deserve.</p>
+                <p>Please know that my love for you is genuine and deep. I'm committed to making things right and being the person you can always count on.</p>
             </div>
         </div>
         
         <div class="promise-section">
-            <div class="promise-title">My Solemn Promise</div>
-            <div class="promise-text">
-                "I will NEVER say bad words to you again."
-            </div>
+            <h3 class="promise-title">My Promise to You</h3>
+            <p class="promise-text">I will always cherish and respect you, Beyonce</p>
         </div>
         
-        <div class="apology-card">
-            <div class="apology-text">
-                <p>This isn't just words on a screen - it's a vow from my soul. I am committed to treating you with the love, respect, and kindness you deserve.</p>
-                
-                <p>When I get frustrated or upset, I will pause, breathe, and remember how precious you are to me. I will communicate with love, not with hurtful words.</p>
-                
-                <p>I am asking for your forgiveness, not because I deserve it, but because I want to be worthy of your love and trust again.</p>
+        <div class="music-section">
+            <h3 class="music-title">Our Song</h3>
+            <p class="song-info">This song reminds me of us - let's calm down and make up 💖</p>
+            <div class="player-container">
+                <h4>Rema - Calm Down</h4>
+                <div class="player-controls">
+                    <button class="player-btn" id="playBtn">
+                        <i class="fas fa-play"></i>
+                    </button>
+                    <button class="player-btn" id="pauseBtn">
+                        <i class="fas fa-pause"></i>
+                    </button>
+                    <button class="player-btn" id="stopBtn">
+                        <i class="fas fa-stop"></i>
+                    </button>
+                </div>
+                <div id="lyrics">
+                    <p><i>"Baby, calm down, calm down<br>
+                    Girl, this your body e put in my heart for lockdown<br>
+                    For lockdown, oh, lockdown"</i></p>
+                </div>
             </div>
         </div>
         
         <div class="love-game">
-            <h2 class="game-title">Love & Forgiveness Game</h2>
-            <p class="game-instruction">Click each heart to reveal my promises to you</p>
+            <h3 class="game-title">Find Our Love Messages</h3>
+            <p class="game-instruction">Click on the hearts to reveal hidden messages for you!</p>
             
             <div class="love-grid" id="loveGrid">
-                <!-- Love boxes will be added by JavaScript -->
+                <!-- Hearts will be generated by JavaScript -->
             </div>
             
-            <div class="game-message" id="gameMessage"></div>
-            
-            <button class="forgiveness-btn" id="forgivenessBtn">
-                I Humbly Ask For Your Forgiveness
-            </button>
+            <div class="game-message" id="gameMessage">Click a heart to reveal a message!</div>
         </div>
+        
+        <button class="forgiveness-btn" id="forgivenessBtn">Will You Forgive Me?</button>
         
         <div class="signature">
-            <p>With all my love and sincere regret,</p>
-            <p style="color: #ff1493; font-size: 1.3rem; margin-top: 8px; font-family: 'Dancing Script', cursive;">
-                The one who loves you deeply
-            </p>
+            <p>With all my love and sincere apologies,</p>
+            <p style="font-size: 1.3rem; font-weight: 600; color: #ff1493;">Lifasi Malumo Lucky</p>
         </div>
-        
-        <div class="footer">
-            <p>Made with 💖, pink hearts, and hope for forgiveness</p>
-            <p>This apology is digital, but every word comes straight from my heart</p>
-        </div>
+    </div>
+    
+    <div class="footer">
+        <p>Made with 💖 for the most amazing woman in the world</p>
     </div>
 
     <script>
-        // Create the love grid for the game
-        const loveGrid = document.getElementById('loveGrid');
-        const gameMessage = document.getElementById('gameMessage');
-        const forgivenessBtn = document.getElementById('forgivenessBtn');
+        // Music Player Simulation
+        const playBtn = document.getElementById('playBtn');
+        const pauseBtn = document.getElementById('pauseBtn');
+        const stopBtn = document.getElementById('stopBtn');
+        const lyrics = document.getElementById('lyrics');
         
-        // Love messages for the game
-        const loveMessages = [
-            "💖 I Love You", "💝 I'm Sorry", "💗 You're Precious", "💓 I Respect You", 
-            "💞 I Cherish You", "🌸 I Value You", "🌺 I Admire You", "🏵️ I Miss You",
-            "💮 You're Special", "🌷 I Appreciate You", "🌹 Forgive Me", "🥀 Learn & Grow",
-            "💐 Always Kind", "🌼 Speak With Love", "🌻 Patient Always", "🌺 Never Hurt You"
+        const songLyrics = [
+            "Baby, calm down, calm down",
+            "Girl, this your body e put in my heart for lockdown",
+            "For lockdown, oh, lockdown",
+            "Girl, you sweet like Fanta, ooh, Fanta, ooh",
+            "If I tell you say I love you, you no dey form hanger",
+            "You dey make my heart dey samba, ooh, samba, ooh",
+            "Queen, you for be di queen for di carnival",
+            "Your body catch my eye, na him be the original",
+            "Girl, you're too fine, with you I can't settle",
+            "Baby, calm down, calm down"
         ];
         
-        // Initialize the love grid
-        for (let i = 0; i < 16; i++) {
-            const loveBox = document.createElement('div');
-            loveBox.className = 'love-box';
-            loveBox.innerHTML = '💖';
-            loveBox.dataset.message = loveMessages[i] || "I Love You";
+        let currentLyricIndex = 0;
+        let lyricInterval;
+        
+        function startLyrics() {
+            clearInterval(lyricInterval);
+            currentLyricIndex = 0;
+            updateLyric();
+            lyricInterval = setInterval(updateLyric, 3000);
+        }
+        
+        function updateLyric() {
+            lyrics.innerHTML = `<p><i>"${songLyrics[currentLyricIndex]}"</i></p>`;
+            currentLyricIndex = (currentLyricIndex + 1) % songLyrics.length;
+        }
+        
+        function stopLyrics() {
+            clearInterval(lyricInterval);
+            lyrics.innerHTML = `<p><i>"Baby, calm down, calm down<br>
+                    Girl, this your body e put in my heart for lockdown<br>
+                    For lockdown, oh, lockdown"</i></p>`;
+        }
+        
+        playBtn.addEventListener('click', function() {
+            startLyrics();
+            playBtn.innerHTML = '<i class="fas fa-play"></i>';
+            playBtn.style.backgroundColor = '#ffebf0';
+        });
+        
+        pauseBtn.addEventListener('click', function() {
+            clearInterval(lyricInterval);
+            pauseBtn.style.backgroundColor = '#ffebf0';
+            setTimeout(() => {
+                pauseBtn.style.backgroundColor = 'white';
+            }, 300);
+        });
+        
+        stopBtn.addEventListener('click', function() {
+            stopLyrics();
+            stopBtn.style.backgroundColor = '#ffebf0';
+            setTimeout(() => {
+                stopBtn.style.backgroundColor = 'white';
+            }, 300);
+        });
+        
+        // Love Game
+        const loveGrid = document.getElementById('loveGrid');
+        const gameMessage = document.getElementById('gameMessage');
+        
+        const loveMessages = [
+            "You're amazing 💖",
+            "I adore you 🌹",
+            "My heart is yours ❤️",
+            "Forgive me? 🙏",
+            "You're my queen 👑",
+            "I miss your smile 😊",
+            "You complete me 💑",
+            "Always yours 💘",
+            "I cherish you 💕",
+            "You're my dream 💭",
+            "My love for you is endless 💞",
+            "You're my everything 🌟"
+        ];
+        
+        // Create heart boxes
+        for (let i = 0; i < 12; i++) {
+            const box = document.createElement('div');
+            box.className = 'love-box';
+            box.innerHTML = '💖';
+            box.dataset.message = loveMessages[i];
             
-            loveBox.addEventListener('click', function() {
+            box.addEventListener('click', function() {
                 if (!this.classList.contains('revealed')) {
                     this.classList.add('revealed');
                     this.innerHTML = this.dataset.message;
                     
-                    // Create little heart animation
-                    const heart = document.createElement('div');
-                    heart.innerHTML = '💖';
-                    heart.style.position = 'absolute';
-                    heart.style.fontSize = '1.5rem';
-                    heart.style.opacity = '0.8';
-                    heart.style.left = `${Math.random() * 100}%`;
-                    heart.style.top = `${Math.random() * 100}%`;
-                    this.appendChild(heart);
+                    // Update game message
+                    const messages = [
+                        "That's so true! 💖",
+                        "You found one! 🌹",
+                        "My feelings exactly! ❤️",
+                        "Another truth revealed! 💕",
+                        "Exactly how I feel! 💘",
+                        "Keep going, my love! 💞"
+                    ];
+                    const randomMessage = messages[Math.floor(Math.random() * messages.length)];
+                    gameMessage.textContent = randomMessage;
                     
-                    // Animate the heart
-                    heart.animate([
-                        { transform: 'translateY(0) scale(1)', opacity: 1 },
-                        { transform: 'translateY(-50px) scale(1.5)', opacity: 0 }
-                    ], {
-                        duration: 1000,
-                        easing: 'ease-out'
-                    }).onfinish = () => heart.remove();
-                    
-                    // Check if all hearts are revealed
+                    // Check if all boxes are revealed
                     const allBoxes = document.querySelectorAll('.love-box');
                     const revealedBoxes = document.querySelectorAll('.love-box.revealed');
                     
-                    if (revealedBoxes.length === allBoxes.length) {
-                        gameMessage.textContent = "You've revealed all my promises! Thank you for giving me a chance.";
+                    if (allBoxes.length === revealedBoxes.length) {
+                        gameMessage.textContent = "You found all my love messages! I'm all yours! 💘";
                         gameMessage.style.color = "#ff1493";
                         gameMessage.style.fontSize = "1.6rem";
-                        
-                        // Create floating hearts celebration
-                        createFloatingHearts();
-                    } else if (revealedBoxes.length === 8) {
-                        gameMessage.textContent = "Halfway there! You're so patient and kind.";
-                        gameMessage.style.color = "#ff69b4";
-                    } else if (revealedBoxes.length === 4) {
-                        gameMessage.textContent = "Thank you for listening to my heart.";
-                        gameMessage.style.color = "#db7093";
                     }
                 }
             });
             
-            loveGrid.appendChild(loveBox);
+            loveGrid.appendChild(box);
         }
         
-        // Forgiveness button click event
+        // Forgiveness Button
+        const forgivenessBtn = document.getElementById('forgivenessBtn');
+        let clickCount = 0;
+        
         forgivenessBtn.addEventListener('click', function() {
-            // Change button text and style
-            this.innerHTML = '💝 Thank You For Your Forgiveness 💝';
-            this.style.background = 'linear-gradient(to right, #c71585, #ff1493)';
-            this.style.boxShadow = '0 10px 25px rgba(199, 21, 133, 0.5)';
-            this.style.transform = 'scale(1.05)';
+            clickCount++;
             
-            // Show final message
-            gameMessage.textContent = "Mwiya Beyonce Mwiza, thank you from the deepest part of my heart. I will honor my promise every single day.";
-            gameMessage.style.color = "#ff1493";
-            gameMessage.style.fontSize = "1.7rem";
-            gameMessage.style.fontWeight = "700";
+            if (clickCount === 1) {
+                this.innerHTML = 'Please? 💖';
+                this.style.transform = 'scale(1.05)';
+                gameMessage.textContent = "I'm really sorry Beyonce, please give me another chance!";
+                
+                // Create floating hearts
+                createFloatingHearts(5);
+            } 
+            else if (clickCount === 2) {
+                this.innerHTML = 'I promise to do better! 💝';
+                this.style.background = 'linear-gradient(to right, #ff69b4, #ff1493)';
+                gameMessage.textContent = "I'll make it up to you, I promise!";
+                
+                // Create more floating hearts
+                createFloatingHearts(8);
+            }
+            else if (clickCount === 3) {
+                this.innerHTML = 'Thank you, my love! 💘';
+                this.style.background = 'linear-gradient(to right, #4CAF50, #45a049)';
+                gameMessage.textContent = "Thank you for forgiving me! I love you so much, Mwiza Beyonce Mwiya! 💖";
+                
+                // Create celebration hearts
+                createFloatingHearts(15);
+                
+                // Change all heart boxes to green
+                const allBoxes = document.querySelectorAll('.love-box');
+                allBoxes.forEach(box => {
+                    box.style.background = 'linear-gradient(135deg, #4CAF50, #45a049)';
+                });
+                
+                // Play celebration animation
+                celebrationAnimation();
+            }
             
-            // Create floating hearts celebration
-            createFloatingHearts();
-            
-            // Reveal all remaining hearts
-            const allBoxes = document.querySelectorAll('.love-box:not(.revealed)');
-            allBoxes.forEach(box => {
-                box.classList.add('revealed');
-                box.innerHTML = box.dataset.message;
-            });
-            
-            // Disable button after click
-            this.disabled = true;
+            // Reset transform after animation
             setTimeout(() => {
-                this.style.transform = 'scale(1)';
+                this.style.transform = '';
             }, 300);
         });
         
-        // Floating hearts effect
-        function createFloatingHearts() {
-            const heartTypes = ['💖', '💝', '💗', '💓', '💞', '💕'];
-            const colors = ['#ff69b4', '#ff1493', '#db7093', '#ffb6c1', '#ff69b4', '#ff1493'];
-            
-            for (let i = 0; i < 50; i++) {
+        function createFloatingHearts(count) {
+            for (let i = 0; i < count; i++) {
                 const heart = document.createElement('div');
-                heart.innerHTML = heartTypes[Math.floor(Math.random() * heartTypes.length)];
+                heart.innerHTML = '💖';
                 heart.style.position = 'fixed';
-                heart.style.fontSize = Math.random() * 25 + 20 + 'px';
-                heart.style.color = colors[Math.floor(Math.random() * colors.length)];
+                heart.style.fontSize = Math.random() * 20 + 20 + 'px';
                 heart.style.left = Math.random() * 100 + 'vw';
                 heart.style.top = '100vh';
                 heart.style.zIndex = '9999';
                 heart.style.pointerEvents = 'none';
-                heart.style.opacity = Math.random() * 0.7 + 0.3;
+                heart.style.opacity = '0.9';
+                
                 document.body.appendChild(heart);
                 
-                // Animate the heart
-                const duration = Math.random() * 3000 + 2000;
-                const delay = Math.random() * 1000;
-                
-                heart.animate([
-                    { transform: 'translateY(0) rotate(0deg)', opacity: heart.style.opacity },
-                    { transform: `translateY(-100vh) rotate(${Math.random() * 720}deg)`, opacity: 0 }
+                // Animate heart floating up
+                const animation = heart.animate([
+                    { transform: 'translateY(0) rotate(0deg)', opacity: 1 },
+                    { transform: `translateY(-${window.innerHeight + 100}px) rotate(${Math.random() * 360}deg)`, opacity: 0 }
                 ], {
-                    duration: duration,
-                    delay: delay,
-                    easing: 'cubic-bezier(0.215, 0.61, 0.355, 1)'
-                }).onfinish = () => heart.remove();
+                    duration: Math.random() * 3000 + 2000,
+                    easing: 'cubic-bezier(0.215, 0.610, 0.355, 1)'
+                });
+                
+                // Remove heart after animation completes
+                animation.onfinish = () => {
+                    document.body.removeChild(heart);
+                };
             }
         }
         
-        // Add initial animation to name container
-        document.addEventListener('DOMContentLoaded', function() {
-            const nameContainer = document.querySelector('.name-container');
-            setTimeout(() => {
-                nameContainer.style.animation = 'pulse 2s infinite';
-            }, 1000);
+        function celebrationAnimation() {
+            // Add celebration message to the page
+            const celebration = document.createElement('div');
+            celebration.innerHTML = `
+                <div style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); 
+                           background: rgba(255, 255, 255, 0.95); padding: 30px; border-radius: 20px; 
+                           text-align: center; z-index: 10000; box-shadow: 0 20px 40px rgba(0,0,0,0.2);
+                           border: 5px solid #ff69b4; max-width: 80%;">
+                    <h2 style="color: #ff1493; font-family: 'Dancing Script', cursive; font-size: 3rem; margin-bottom: 20px;">
+                        You Made My Day! 💖
+                    </h2>
+                    <p style="font-size: 1.5rem; color: #8a2b5e;">
+                        Thank you for forgiving me, Beyonce!<br>
+                        I love you more than words can express!
+                    </p>
+                    <button id="closeCelebration" style="margin-top: 20px; padding: 10px 30px; 
+                           background: #ff69b4; color: white; border: none; border-radius: 50px; 
+                           font-size: 1.2rem; cursor: pointer;">
+                        Close
+                    </button>
+                </div>
+            `;
             
-            // Add subtle background animation
-            let time = 0;
-            function updateBackground() {
-                time += 0.005;
-                const x = Math.cos(time) * 10;
-                const y = Math.sin(time) * 10;
-                document.querySelector('.container').style.background = 
-                    `radial-gradient(circle at ${50 + x}% ${50 + y}%, rgba(255,255,255,0.95), rgba(255,255,255,0.92))`;
-                requestAnimationFrame(updateBackground);
-            }
-            updateBackground();
+            document.body.appendChild(celebration);
+            
+            // Close button functionality
+            document.getElementById('closeCelebration').addEventListener('click', function() {
+                document.body.removeChild(celebration);
+            });
+        }
+        
+        // Initialize with some floating hearts
+        window.addEventListener('load', function() {
+            setTimeout(() => {
+                createFloatingHearts(3);
+            }, 1000);
         });
     </script>
 </body>
